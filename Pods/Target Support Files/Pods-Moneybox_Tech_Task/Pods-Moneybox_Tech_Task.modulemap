@@ -1,0 +1,6 @@
+framework module Pods_Moneybox_Tech_Task {
+  umbrella header "Pods-Moneybox_Tech_Task-umbrella.h"
+
+  export *
+  module * { export * }
+}
